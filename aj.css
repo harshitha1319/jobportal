@@ -1,0 +1,9 @@
+.content{
+	color: blue;
+	position: absolute;
+	top: 34%;
+	left:8%;
+	transform: translateY(-50%);
+	z-index: 2;
+}
+
